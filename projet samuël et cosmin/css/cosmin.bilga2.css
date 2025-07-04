@@ -1,0 +1,57 @@
+:root 
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    background: linear-gradient(red,orange);
+
+}
+
+.categorie
+{
+   font-family: 'Times New Roman', Times, serif;
+}
+
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 1px 1px 1px rgb(77, 66, 66);
+}
+
+.image
+{
+    width: 20px;
+    height:20px;
+    border-spacing: 3px;
+    padding-right: 5px;
+}
+
+.bloc
+{
+    display: flex;
+    align-items: center;
+    justify-items: start;
+}
+
+h2
+{
+    text-decoration: underline;
+    color: rgb(59, 168, 12);
+    text-shadow: 1px 1px 2px black;
+}
+
+ul
+{
+    list-style-type: "- ";
+}
+
+a
+{
+    color: black;
+    text-decoration: none;   
+}
+
+a:hover
+{
+    color: rgb(86, 6, 86);
+}

@@ -1,0 +1,40 @@
+main
+{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.left_side
+{
+    width: 50%;
+    height: 100%;
+    align-content: center;
+}
+
+.left_content
+{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 3.2rem;
+    text-align: center;
+}
+
+.right_side
+{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(115, 115, 216);
+    align-content: center;
+}
+
+.right_content
+{
+    text-align: left;
+    text-indent: 3rem;
+    font-size: 1.8rem;
+    padding-left: 5%;
+    padding-right: 5%;
+    color:white;
+}
+
